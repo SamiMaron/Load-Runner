@@ -1,0 +1,1 @@
+target_sources (CR7 PRIVATE "ObjectBase.cpp" "Player.cpp" "main.cpp" "Level.cpp" "Board.cpp" "Eatable.cpp" "Coin.cpp" "Wall.cpp" "CyclicEnemy.cpp"  "Ladder.cpp" "RandomEnemy.cpp" "Rope.cpp" "SmartEnemy.cpp"  "DynamicObject.cpp" "Controler.cpp" "LifePresent.cpp" "EnemyPresent.cpp" "PointsPresent.cpp" "TimePresent.cpp")
