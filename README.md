@@ -1,6 +1,9 @@
 # Load-Runner
 
-Based on the game load runnner
+Based on the classic Lode Runner game written in C++.
+The code uses class inheritance, polymorphism and the SFML library.
+
+# Game Rules
 
 A game where a player needs to collect coins to pass the next level and there are enemies that try to kill him some are smart hooks that come towards the player, some move randomly and some only move right to left
 The game has ladders and poles that a player can walk up and down
